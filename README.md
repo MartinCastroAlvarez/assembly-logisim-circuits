@@ -35,3 +35,17 @@ Counter circuit with Flip-Flop D.
 ## Substractor
 
 ![substractor](./substractor.png)
+
+## Decoder
+
+![decoder1](./decoder1.png)
+![decoder2](./decoder2.png)
+
+## Comparer
+
+![comparer1](./comparer1.png)
+![comparer2](./comparer2.png)
+
+## Decoder
+
+![decoder](./decoder.png)

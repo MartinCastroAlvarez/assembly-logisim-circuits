@@ -26,3 +26,11 @@ Logic Circuits using Logisim
 
 ![adder1](./adder1.png)
 ![adder2](./adder2.png)
+
+#### Inverter
+
+![inverter](./invertir.png)
+
+#### Substractor
+
+![substractor](./substractor.png)

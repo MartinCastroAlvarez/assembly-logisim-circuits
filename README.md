@@ -12,17 +12,17 @@ Logic Circuits using Logisim
 
 #### Controller
 
-[controller](./controller.png)
+![controller](./controller.png)
 
 #### Timer
 
-[timer](./timer.png)
+![timer](./timer.png)
 
 #### Semaphore
 
-[semaphore](./semaphore.png)
+![semaphore](./semaphore.png)
 
 #### Adder
 
-[adder1](./adder1.png)
-[adder2](./adder2.png)
+![adder1](./adder1.png)
+![adder2](./adder2.png)

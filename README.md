@@ -5,11 +5,13 @@ Logic Circuits using Logisim
 
 ## [voting.circ](./voting.circ)
 Voting combinational circuit.
-[full-counter](./full-counter.png)
+
+![full-counter](./full-counter.png)
 
 ## [counter.circ](./counter.circ)
 Counter circuit with Flip-Flop D.
-[full-voting](./full-voting.png)
+
+![full-voting](./full-voting.png)
 
 ## Controller
 

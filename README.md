@@ -3,34 +3,35 @@ Logic Circuits using Logisim
 
 ![alt-img](./circuits.jpeg)
 
-## Files
+## [voting.circ](./voting.circ)
+Voting combinational circuit.
+[full-counter](./full-counter.png)
 
-- [voting.circ](./voting.circ): Voting combinational circuit.
-- [counter.circ](./counter.circ): Counter circuit with Flip-Flop D.
+## [counter.circ](./counter.circ)
+Counter circuit with Flip-Flop D.
+[full-voting](./full-voting.png)
 
-## Files
-
-#### Controller
+## Controller
 
 ![controller](./controller.png)
 
-#### Timer
+## Timer
 
 ![timer](./timer.png)
 
-#### Semaphore
+## Semaphore
 
 ![semaphore](./semaphore.png)
 
-#### Adder
+## Adder
 
 ![adder1](./adder1.png)
 ![adder2](./adder2.png)
 
-#### Inverter
+## Inverter
 
 ![inverter](./invertir.png)
 
-#### Substractor
+## Substractor
 
 ![substractor](./substractor.png)

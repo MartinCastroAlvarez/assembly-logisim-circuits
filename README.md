@@ -13,10 +13,10 @@ Voting combinational circuit.
 ### [counter.circ](./counter.circ)
 Counter circuit with Flip-Flop D.
 
+![full-voting](./full-voting.png)
+
 ### [counter.asm](./counter.asm)
 Code for counting vowels, numbers and words in Assembly.
-
-![full-voting](./full-voting.png)
 
 ## Subcircuits
 
